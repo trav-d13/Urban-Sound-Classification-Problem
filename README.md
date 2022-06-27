@@ -4,7 +4,7 @@
 Successfully classify 10 urban sounds into the correct catagories, as a real-world audio processing situation.
 
 ### About
-The **Urban Sound Classification Challenge** is a challenge hosted by [Vidhya Analytics](https://www.analyticsvidhya.com/). 
+The [Urban Sound Classification Challenge](https://datahack.analyticsvidhya.com/contest/practice-problem-urban-sound-classification/#About) is a challenge hosted by [Vidhya Analytics](https://www.analyticsvidhya.com/). 
 It introduces a real-wolrd classfiication problem. 
 
 The given dataset contains sounds from 10 different sources:
